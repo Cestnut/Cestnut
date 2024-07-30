@@ -4,7 +4,7 @@ Hello wanderer,
 
 My name is Giovanni, I'm 22 years old and I graduated in Computer Science from the University of Messina 🇮🇹. 
 
-I love troubleshooting and bugfixing, tackling any challenge that come my way with the sheer power of meditation 🧠.
+I love designing and implementing complex projects, tackling any challenge that come my way with the sheer power of troubleshooting and bugfixing 🔧.
   
 I want to learn better:
 - Internals of **Linux**;
